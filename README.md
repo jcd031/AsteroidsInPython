@@ -1,2 +1,5 @@
 # AsteroidsInPython
-This is an asteroids clone written in Python, using Pygame to handle graphics and input.
+
+This is a little exercise to practice object-oriented programming in Python.
+
+I've included a UML diagram to show each class and how its used.
